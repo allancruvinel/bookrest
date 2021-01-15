@@ -1,0 +1,9 @@
+C:\Users\allan\Desktop\Mapeado2\testingTFVC2.0\Alura.WebAPI\Alura.WebAPI.Model\bin\Debug\netcoreapp2.1\Alura.WebAPI.Model.deps.json
+C:\Users\allan\Desktop\Mapeado2\testingTFVC2.0\Alura.WebAPI\Alura.WebAPI.Model\bin\Debug\netcoreapp2.1\Alura.WebAPI.Model.dll
+C:\Users\allan\Desktop\Mapeado2\testingTFVC2.0\Alura.WebAPI\Alura.WebAPI.Model\bin\Debug\netcoreapp2.1\Alura.WebAPI.Model.pdb
+C:\Users\allan\Desktop\Mapeado2\testingTFVC2.0\Alura.WebAPI\Alura.WebAPI.Model\obj\Debug\netcoreapp2.1\Alura.WebAPI.Model.csprojAssemblyReference.cache
+C:\Users\allan\Desktop\Mapeado2\testingTFVC2.0\Alura.WebAPI\Alura.WebAPI.Model\obj\Debug\netcoreapp2.1\Alura.WebAPI.Model.AssemblyInfoInputs.cache
+C:\Users\allan\Desktop\Mapeado2\testingTFVC2.0\Alura.WebAPI\Alura.WebAPI.Model\obj\Debug\netcoreapp2.1\Alura.WebAPI.Model.AssemblyInfo.cs
+C:\Users\allan\Desktop\Mapeado2\testingTFVC2.0\Alura.WebAPI\Alura.WebAPI.Model\obj\Debug\netcoreapp2.1\Alura.WebAPI.Model.csproj.CoreCompileInputs.cache
+C:\Users\allan\Desktop\Mapeado2\testingTFVC2.0\Alura.WebAPI\Alura.WebAPI.Model\obj\Debug\netcoreapp2.1\Alura.WebAPI.Model.dll
+C:\Users\allan\Desktop\Mapeado2\testingTFVC2.0\Alura.WebAPI\Alura.WebAPI.Model\obj\Debug\netcoreapp2.1\Alura.WebAPI.Model.pdb
